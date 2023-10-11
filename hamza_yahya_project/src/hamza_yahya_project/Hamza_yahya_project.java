@@ -16,6 +16,8 @@ public class Hamza_yahya_project {
     public static void main(String[] args) {
         String name = "hamza";
         System.out.println("hello" + name);// hello
+        System.out.println("Yahya");
+        System.out.println("Hamza");
         
                 
     }
