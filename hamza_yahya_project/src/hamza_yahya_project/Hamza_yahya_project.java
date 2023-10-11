@@ -19,6 +19,7 @@ public class Hamza_yahya_project {
         System.out.println("Yahya");
         System.out.println("Hamza");
         System.out.println("hazeem");
+        System.out.println("apple");
         
                 
     }
